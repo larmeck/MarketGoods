@@ -1,6 +1,6 @@
 #my_table{
-   height: 20cm;
-   width: 15cm;
+   height: 10cm;
+   width: 10cm;
 
 }
 #images{
@@ -9,4 +9,16 @@
 }
 body{
     background-color: antiquewhite;
+}
+h1{
+    font-weight: 2em;
+    font-style:italic;
+    color: blue;
+    
+}
+
+#table_2{
+height: 10cm;
+width: 1cm;
+
 }
